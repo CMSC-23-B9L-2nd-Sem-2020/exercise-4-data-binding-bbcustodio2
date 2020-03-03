@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Custodio_exer4_slambook</string>
+    <string name="hello">Hello!</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="enter_nickname">Enter Nickname</string>
+    <string name="age">Age</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="when_is_your_birthday">When is your birthday?</string>
+    <string name="enter_birthday">Enter Birthday</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="what_is_your_email_address">What is your email address?</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="what_is_your_course">What is your course?</string>
+    <string name="enter_course">Enter Course</string>
+    <string name="what_is_your_ultimate_dream">What is your Ultimate dream?</string>
+    <string name="enter_dream">Enter Dream</string>
+    <string name="who_is_your_secret_crush">Who is your secret crush?</string>
+    <string name="enter_name_of_crush">Enter Name of Crush</string>
+    <string name="what_is_your_message_for_me">What is your message for me?</string>
+    <string name="done">DONE</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="thank_you">Thank you for answering!</string>
+</resources>
